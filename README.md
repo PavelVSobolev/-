@@ -1,1 +1,4 @@
 Выполнил 4 тестовых задания для НТ Performance Lab
+Для первой задачи ввод через командную по типу "c:/Users/Павел/OneDrive/Рабочий стол/python projects/ok1/Scripts/python.exe" "c:/Users/Павел/OneDrive/Рабочий стол/python projects/task1.py" 5 4
+Для второй задачи ввод через командную по типу "c:/Users/Павел/OneDrive/Рабочий стол/python projects/ok1/Scripts/python.exe" "c:/Users/Павел/OneDrive/Рабочий стол/python projects/task 2.py" "c:/Users/Павел/OneDrive/Рабочий стол/python projects/task21.txt" "c:/Users/Павел/OneDrive/Рабочий стол/python projects/task22.txt"
+Для четвертой задачи ввод через командную строку по типу "c:/Users/Павел/OneDrive/Рабочий стол/python projects/ok1/Scripts/python.exe" "c:/Users/Павел/OneDrive/Рабочий стол/python projects/task4.py" "c:/Users/Павел/OneDrive/Рабочий стол/python projects/task 4.txt"
