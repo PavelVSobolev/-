@@ -23,6 +23,6 @@ if __name__ == '__main__':
         fn = 1 + (fn - 2 + m) % n
         if fn == 1:
             break
-    print(path
+    print(path)
 
 
